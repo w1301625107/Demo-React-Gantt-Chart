@@ -1,0 +1,21 @@
+.middle {
+  flex: 1;
+  text-align: center;
+  padding-left: 5px;
+}
+.runTime {
+  display: flex;
+  flex-direction: column;
+}
+.plan {
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+  height: 80%;
+  border: 1px solid #f0f0f0;
+  border-radius: 5px;
+  color: #333333;
+  padding-left: 5px;
+  font-size: 0.8rem;
+  // opacity: 0.8;
+}
