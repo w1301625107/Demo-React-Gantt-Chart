@@ -1,5 +1,7 @@
 # React-Gantt-Chart 的demo
 
+
+### [Demo预览地址](https://w1301625107.github.io/Demo-React-Gantt-Chart/build/index)
 ## Run
 ```bash
 #clone项目，进入项目根目录
